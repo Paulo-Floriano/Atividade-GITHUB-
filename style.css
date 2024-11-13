@@ -1,4 +1,9 @@
 
+button {
+    background-color: red;
+    color: white;
+
+
 input[type="text"] {
     width: 100px;
     height: 20px;
@@ -16,5 +21,6 @@ p {
 img {
     width: 400px;
     height: 600px;
+
 
 }
