@@ -1,3 +1,4 @@
+
 input[type="text"] {
     width: 100px;
     height: 20px;
@@ -5,4 +6,15 @@ input[type="text"] {
 button {
     background-color: black;
     color: white;
+
+h1 {
+    color: red;
+}
+p {
+    font-weight: bold;
+}
+img {
+    width: 400px;
+    height: 600px;
+
 }
